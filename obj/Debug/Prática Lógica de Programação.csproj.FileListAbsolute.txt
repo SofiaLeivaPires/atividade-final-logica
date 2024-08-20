@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\Prática Lógica de Programação\bin\Debug\Prática Lógica de Programação.exe.config
+C:\Users\Aluno\source\repos\Prática Lógica de Programação\bin\Debug\Prática Lógica de Programação.exe
+C:\Users\Aluno\source\repos\Prática Lógica de Programação\bin\Debug\Prática Lógica de Programação.pdb
+C:\Users\Aluno\source\repos\Prática Lógica de Programação\obj\Debug\Prática Lógica de Programação.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Prática Lógica de Programação\obj\Debug\Prática_Lógica_de_Programação.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Prática Lógica de Programação\obj\Debug\Prática Lógica de Programação.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Prática Lógica de Programação\obj\Debug\Prática Lógica de Programação.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Prática Lógica de Programação\obj\Debug\Prática Lógica de Programação.exe
+C:\Users\Aluno\source\repos\Prática Lógica de Programação\obj\Debug\Prática Lógica de Programação.pdb
+C:\Users\Aluno\source\repos\Prática Lógica de Programação\obj\Debug\Prática_Lógica_de_Programação.FrmPesoPlaneta.resources
+C:\Users\Aluno\source\repos\Prática Lógica de Programação\obj\Debug\Prática_Lógica_de_Programação.FrmMenu.resources
+C:\Users\Aluno\source\repos\Prática Lógica de Programação\obj\Debug\Prática_Lógica_de_Programação.FrmPlacar.resources
+C:\Users\Aluno\source\repos\Prática Lógica de Programação\obj\Debug\Prática_Lógica_de_Programação.FrmMaiorMenor.resources
+C:\Users\Aluno\source\repos\Prática Lógica de Programação\obj\Debug\Prática_Lógica_de_Programação.FrmPlacar2.resources
